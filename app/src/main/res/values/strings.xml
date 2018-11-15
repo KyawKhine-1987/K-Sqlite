@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sqlite_CRUD</string>
+    <string name="name">Name</string>
+    <string name="phone_no">Phone No.</string>
+
+    <string name="test_name">test name</string>
+    <string name="number">959254137095</string>
+
+    <string name="edit">Update</string>
+    <string name="delete">Delete</string>
+
+    <string name="editor_insert_contact_failed">Error with inserting contact.</string>
+    <string name="editor_insert_contact_successful">Contact saved.</string>
+
+    <string name="editor_update_contact_failed">Error with updating contact.</string>
+    <string name="editor_update_contact_successful">Contact updated.</string>
+
+    <string name="editor_delete_contact_successful">Contact deleted.</string>
+
+    <string name="validation">"Please, you must need to fill Name and Phone Number!"</string>
+</resources>
